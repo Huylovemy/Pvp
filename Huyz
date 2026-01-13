@@ -1,0 +1,2 @@
+By Quang Huy
+loadstring(game:HttpGet("https://luacrack.site/raw.php/Quanghuy/raw/CentuDox.lua.txt"))()
